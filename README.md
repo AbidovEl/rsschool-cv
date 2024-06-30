@@ -1,2 +1,2 @@
 # rsschool-cv
-learning and practice
+https://AbidovEl.github.io/rsschool-cv/cv
