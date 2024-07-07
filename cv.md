@@ -1,6 +1,5 @@
 # Abidov Elyor
 ![no image](/avatar.jpg)
-> Age: 24 years 
 
 > Address: Tashkent
 
@@ -8,7 +7,7 @@
 ### Education: 
 > INHA University in Tashkent. B.Sc. in Computer science and Engineering
 
-### Опыт работы:
+### Job experience:
 
 **TBC Bank internship**
 > Worked as an intern in TBC Bank. Main tasks were updating and developing automated order forms and built-in applications for corporate SharePoint website.
@@ -23,8 +22,6 @@
 * English (IELTS 7)
 
 ### Completed task on Codewars:
-
-> Collapse spaces and url encode (no regex or trim)
 
 ```javascript
 function urlify(str) {
