@@ -1,3 +1,3 @@
 # rsschool-cv
-https://AbidvoEl.github.io/rsschool-cv/cv
-https://AbidvoEl.github.io/rsschool-cv/
+https://abidovel.github.io/rsschool-cv/cv
+https://abidovel.github.io/rsschool-cv/
