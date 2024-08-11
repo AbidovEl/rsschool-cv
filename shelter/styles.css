@@ -1,0 +1,106 @@
+/* Общие стили для страницы */
+body {
+    width: 1280px;
+    height: 3796px;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+
+section {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+#Start {
+    height: 908px;
+    background: linear-gradient(0deg, #211F20, #211F20), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    height: 60px;
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+
+.logo {
+    width: 184px;
+    height: 60px;
+}
+
+nav {
+    width: 443px;
+    height: 27px;
+    color: #CDCDCD;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: right;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.start-content {
+    width: 1200px;
+    height: 728px;
+    top: 120px;
+    left: 40px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.start-screen-puppy {
+    width: 698px;
+    height: 728px;
+
+}
+
+
+
+
+
+
+
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative; /* или можно использовать fixed, если хотите, чтобы он был всегда внизу */
+    bottom: 0;
+    width: 100%;
+}
+
+/* Стили для обеспечения хорошего отображения на мобильных устройствах */
+@media (max-width: 768px) {
+    nav ul {
+        text-align: center;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+}
