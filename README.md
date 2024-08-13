@@ -1,2 +1,2 @@
 # rsschool-cv
-https://AbidvoEl.github.io/rsschool-cv/
+https://abidvoel.github.io/rsschool-cv/
